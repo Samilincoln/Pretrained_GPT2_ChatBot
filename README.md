@@ -33,7 +33,7 @@ This project demonstrates a chatbot built using a pretrained GPT-2 model. The ch
 ## Usage
 1. Run the chatbot script:
     ```bash
-    python chatbot.py
+    streamlit run chatbot.py
     ```
 
 2. Interact with the chatbot in the terminal or through the provided interface.
